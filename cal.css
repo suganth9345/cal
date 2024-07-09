@@ -1,0 +1,25 @@
+select:hover{
+    background-color: rgba(213, 244, 188, 0.053);
+}
+textarea:hover{
+    background-color: rgb(213, 244, 188);
+    
+}
+button{
+    background-color: rgb(17, 234, 220);
+}
+button:hover{
+    background-color: rgba(150, 201, 150, 0.501);
+}
+table{
+    background-color: blue;   
+}
+
+input{
+    width: 100px;
+}
+body{
+    background-image: url('background.webp');
+    background-size: cover;
+    background-attachment: fixed;
+}
